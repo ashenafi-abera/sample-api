@@ -1,0 +1,8 @@
+api:
+  id: "17282719"
+
+http:
+  port: "50001"
+  host: "amazon.com"
+  basepath: "api"
+  password: "vjbjkfskd"
